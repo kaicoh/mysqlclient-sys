@@ -7,7 +7,7 @@ To use it in your Diesel project, add this to `Cargo.toml`:
 
 ```toml
 [patch.crates-io]
-mysqlclient-sys = { git = "https://github.com/pzmarzly/mysqlclient-sys", rev = "acd1b2b" }
+mysqlclient-sys = { git = "https://github.com/kaicoh/mysqlclient-sys", rev = "74d254d" }
 ```
 
 Tested with musl + Rocket + diesel! (Tip: install `musl-gcc` and put
